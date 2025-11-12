@@ -1,0 +1,21 @@
+    .main {
+    flex: 6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
+
+    li {
+    list-style: none;
+    margin-right: 2rem;
+    }
+
+    h2 {
+    color: #16a085;
+    font-size:3rem;
+    }
+
+    h1 {
+    color: #2e4052;
+    font-size: 4rem ;
+    }
