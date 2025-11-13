@@ -1,0 +1,12 @@
+/*const DetalleListaProps = (props) => {
+    return <li>Hola, mi nombre es {props.nombre} {props.apellido}</li>
+}
+
+export default DetalleListaProps;*/
+
+const DetalleListaProps = (props) => {
+    const {nombre,apellido,edad} = props;
+    return <li>Hola, mi nombre es {nombre} {apellido} y tengo {edad} </li>
+}
+
+export default DetalleListaProps;
