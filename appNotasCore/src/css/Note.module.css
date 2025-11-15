@@ -1,0 +1,17 @@
+.baja{
+    color: red;
+
+}
+
+.media{
+    color: blue;
+}
+
+.alta {
+    color: green;
+}
+
+.noteCard{
+    display: flex;
+    gap:7rem;
+}
