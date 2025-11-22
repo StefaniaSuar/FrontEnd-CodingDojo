@@ -1,0 +1,11 @@
+.list{
+    list-style: none;
+    
+}
+
+.list a{
+    text-decoration: none;
+    color: green;
+    text-align: center;
+    font-size: 23px;
+}
